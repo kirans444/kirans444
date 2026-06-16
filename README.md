@@ -145,7 +145,6 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirens216@gmail.com)
 
-This looks much more professional than naming them "Workbook 1, 2, 3" and immediately tells recruiters
 ---
 
 # 📊 GitHub Statistics
