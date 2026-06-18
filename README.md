@@ -110,6 +110,12 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 
 > Explored cloud computing and Microsoft Azure, applying cloud service models, database technologies, SQL querying, security, and governance concepts to understand modern data infrastructure.
 
+### 🐍 Python Programming & Pandas Data Analysis
+
+> Explored Python and Pandas through practical data analysis exercises, applying programming fundamentals, data manipulation, conditional logic, filtering, transformation, and statistical techniques to clean, analyse, and interpret real-world datasets.
+
+
+
 ---
 <h1 align="center">Hi 👋 </h1>
 
