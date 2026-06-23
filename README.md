@@ -8,7 +8,7 @@
 
 # About Me
 
-An aspiring Data Analyst and AI enthusiast currently completing a Data Technician Bootcamp, building practical experience across data analytics, business intelligence, databases, cloud technologies, and AI.
+An aspiring Data Analyst and AI enthusiast currently completing a Data Analysis Bootcamp, building practical experience across data analytics, business intelligence, databases, cloud technologies, and AI.
 
 My professional background spans government administration, healthcare, project coordination, and equine performance environments, where I developed strong analytical, problem-solving, stakeholder communication, and data management skills. I'm now applying those experiences to data-driven projects using Excel, Tableau, Power BI, SQL, Python, and Microsoft Azure.
 
