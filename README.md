@@ -12,7 +12,7 @@ An aspiring Data Analyst and AI enthusiast currently completing a Data Analysis 
 
 My professional background spans across structured government administration, operational healthcare frameworks, project coordination, and high performance equine environments. Leveraging this distinct domain expertise, I bridge the gap between technical data infrastructure and executive operations—transforming messy multi-source data streams into structured relational databases, high-fidelity interactive dashboards, and actionable business intelligence.
 
-**Core Philosophy:** *Data captures organizational history; strategic analysis designs its future. My focus is engineering clean pipelines, isolating margin drivers, and presenting high-density insight matrices that empower leadership teams to make data-driven decisions.*
+Where data captures an organisation's history; strategic analysis designs its future. My focus is creating clean, reliable datasets, identifying the factors that influence performance, and presenting insights in a way that enables informed decision-making.
 
 ---
 
