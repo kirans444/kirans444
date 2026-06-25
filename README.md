@@ -99,21 +99,9 @@ $$\text{Data Ingestion (SQL/ETL)} \longrightarrow \text{Data Hygiene (Pandas/Pow
 
 [![GitHub](https://img.shields.io/badge/GitHub-kiran--kaur--sangha-181717?style=for-the-badge\&logo=github)](https://github.com/kiran-kaur-sangha)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran%20Sangha-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://uk.linkedin.com/in/kiren-sangha-a01170172)
-
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)](https://public.tableau.com/app/profile/kiran.sangha7873/vizzes)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMjM2ZTMzZGYtZjRkYy00MzE4LWFkOTMtNjcwMWY5OGIxYjE4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kirens216@gmail.com)
-
-[![Python Fundamentals](https://img.shields.io/badge/Python-Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1pBd4JmButu9VyQazEWIQIo7BAvarMRZ0?usp=sharing)
-
-[![Python Logic & Control Flow](https://img.shields.io/badge/Python-Logic%20%26%20Control%20Flow-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1Y-1LY-NXh8NzfbFNfxAErdsuaonCmyTh?usp=sharing)
-
-[![Python Data Structures](https://img.shields.io/badge/Python-Data%20Structures-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1GQwkgkUqKyd9XLWKqEURUR3RV-lqt1KT?usp=sharing)
-
-[![Pandas Data Analysis](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://colab.research.google.com/drive/1fNmZVhKGyvrFd20DjeLC-wDVsIaoqQYT?usp=sharing)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirens216@gmail.com)
 
